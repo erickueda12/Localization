@@ -17,7 +17,54 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: f0e7396829ba3d849be1f62d320ce68c, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 185798389760
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2456921731072
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2546436567040
+    m_Localized: JUEGO DEL PERRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8035555766272
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8656384061440
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8910990897152
+    m_Localized: "\xA9 2026 HappySoftware. Todos los derechos reservados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10909824217088
+    m_Localized: Actualizaciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11915249217536
+    m_Localized: "Actualizaci\xF3n v1.0.2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13185380937728
+    m_Localized: "Cambios\n\n-Mejoramos el movimiento de la c\xE1mara.\n-Corregimos
+      peque\xF1os problemas en la interfaz.\n-Mejoramos el rendimiento del juego.\n-Corregimos
+      algunos errores de texto y localizaci\xF3n.\n-A\xF1adimos algunas mejoras visuales.\n\n\xA1Gracias
+      por jugar y por todos sus comentarios!\n\n\u2014 Equipo de HappySoftware"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12575076151296
+    m_Localized: "\xA1Hola a todos! Ya est\xE1 disponible una peque\xF1a actualizaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14925144682496
+    m_Localized: "\xA1Bienvenido de nuevo, jugador!"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
