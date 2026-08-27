@@ -30,6 +30,41 @@ MonoBehaviour:
     m_Localized: "JOGO DO C\xC3O"
     m_Metadata:
       m_Items: []
+  - m_Id: 8035555766272
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8656384061440
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8910990897152
+    m_Localized: "\xA9 2026 HappySoftware. Todos os direitos reservados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10909824217088
+    m_Localized: "Atualiza\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11915249217536
+    m_Localized: "Atualiza\xE7\xE3o v1.0.2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12575076151296
+    m_Localized: "Ol\xE1, pessoal! Uma pequena atualiza\xE7\xE3o j\xE1 est\xE1 dispon\xEDvel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13185380937728
+    m_Localized: "Altera\xE7\xF5es\n\n-Melhoramos o movimento da c\xE2mera.\n-Corrigimos
+      pequenos problemas na interface.\n-Melhoramos o desempenho do jogo.\n-Corrigimos
+      alguns erros de texto e localiza\xE7\xE3o.\n-Adicionamos algumas melhorias
+      visuais.\n\nObrigado por jogar e por todo o feedback!\n\n\u2014 Equipe HappySoftware"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14925144682496
+    m_Localized: Bem-Vindo de volta, Jogador!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
